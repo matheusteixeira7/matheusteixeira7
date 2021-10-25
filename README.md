@@ -8,6 +8,5 @@ I'm someone who is passionate about **React/Nodejs** and likes to **write code**
 
 I mostly write **React/Next and Nodejs** these days. See my _pinned repositories_ below.
 
-Other than that, here are a few interesting **projects** (written in **C**, **Go**, **Python**, **JS**) that worth mentioning:
 
 I sometimes write [blog](https://medium.com/@matheusteixeirajs/) posts and occasionally [tweet](https://twitter.com/matheusmtcode) about stuff. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/matheusteixeirajs/) about **job-related** matters.
