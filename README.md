@@ -1,16 +1,13 @@
-### Hi there 👋
+<img align="left" src="https://orhun.dev/img/crow.png">
 
-<!--
-**matheusteixeira7/matheusteixeira7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey!
 
-Here are some ideas to get you started:
+I'm someone who is passionate about **React/Nodejs** and likes to **write code**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+I mostly write **React/Next and Nodejs** these days. See my _pinned repositories_ below.
+
+Other than that, here are a few interesting **projects** (written in **C**, **Go**, **Python**, **JS**) that worth mentioning:
+
+I sometimes write [blog](https://medium.com/@matheusteixeirajs/) posts and occasionally [tweet](https://twitter.com/matheusmtcode) about stuff. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/matheusteixeirajs/) about **job-related** matters.
