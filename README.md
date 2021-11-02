@@ -39,10 +39,10 @@
 
 <p align="left" style="background:yellow">
 <a href="https://twitter.com/matheusmtcode" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-matheusteixeira7-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/-matheusmtcode-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://linkedin.com/in/matheusteixeirajs" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-matheusteixeira7-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-matheusteixeirajs-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/matheusteixeira.js" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-matheusteixeira.js-05122A?style=flat&logo=instagram" alt="instagram"/>
