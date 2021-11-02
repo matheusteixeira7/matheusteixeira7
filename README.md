@@ -1,12 +1,17 @@
 <img align="top" src="https://i.ibb.co/Pc8wZNk/profile.jpg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Matheus Teixeira</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Matheus Teixeira</h1>
+<h3 align="center">A passionate fullstack web developer from Brazil</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusteixeira7&color=yellow" alt="Profile views" /> </p>
+
+<p align="left"> <a href="https://twitter.com/matheusmtcode" target="blank"><img src="https://img.shields.io/twitter/follow/matheusmtcode?logo=twitter&style=for-the-badge" alt="matheusmtcode" /></a> </p>
 
 - 🔥 Web Developer & Instructor focused on helping people start programming 
 
 - 🔭 I’m currently working at [Devnine](https://devnine.tech)
 
 - ▶️ I regularly post videos on [youtube.com/devnine](https://www.youtube.com/channel/UC0wlbMPR_YWGdh7GuQBPyYQ)
+
+- 📝 I regularly write articles on [https://matheusteixeirajs.medium.com/](https://matheusteixeirajs.medium.com/)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, React.JS, Next.JS, Node.JS, Express, Typescript**
 
