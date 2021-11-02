@@ -2,7 +2,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Matheus Teixeira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusteixeira7&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
+- 🔥 Web Developer & Instructor focused on helping people start programming 
 
 - 🔭 I’m currently working at [Devnine](https://devnine.tech)
 
@@ -45,7 +45,7 @@
   <img align="center" src="https://img.shields.io/badge/-matheusteixeira7-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/matheusteixeira.js" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-matheusteixeira7-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-matheusteixeira.js-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://www.youtube.com/channel/UC0wlbMPR_YWGdh7GuQBPyYQ" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-matheusteixeira7-05122A?style=flat&logo=youtube" alt="youtube"/>
