@@ -4,7 +4,7 @@
 
 - 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
 
-- 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat)
+- 🔭 I’m currently working at [Devnine](https://devnine.tech)
 
 - ▶️ I regularly post videos on [youtube.com/devnine](https://www.youtube.com/channel/UC0wlbMPR_YWGdh7GuQBPyYQ)
 
@@ -29,8 +29,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=matheusteixeira7&show_icons=true&theme=vision-friendly-dark" alt="matheusteixeira7's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusteixeira7&layout=compact&theme=vision-friendly-dark" alt="matheusteixeira7's most languages"/>
 </p>
 
 <br><br>
