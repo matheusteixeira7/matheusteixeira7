@@ -48,7 +48,7 @@
  <img align="center" src="https://img.shields.io/badge/-matheusteixeira.js-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://www.youtube.com/channel/UC0wlbMPR_YWGdh7GuQBPyYQ" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-matheusteixeira7-05122A?style=flat&logo=youtube" alt="youtube"/>
+ <img align="center" src="https://img.shields.io/badge/-devnine-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
 
