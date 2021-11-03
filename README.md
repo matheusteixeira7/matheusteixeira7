@@ -33,8 +33,6 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=matheusteixeira7&show_icons=true&theme=vision-friendly-dark" alt="matheusteixeira7's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusteixeira7&layout=compact&theme=vision-friendly-dark" alt="matheusteixeira7's most languages"/>
 </p>
 
