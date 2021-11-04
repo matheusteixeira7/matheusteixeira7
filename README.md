@@ -59,7 +59,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Como Configurar ESLint e Prettier Para Seus Projetos Em ReactJS, NodeJS e TypeScript](https://matheusteixeirajs.medium.com/como-configurar-eslint-e-prettier-para-seus-projetos-em-react-nodejs-e-typescript-53a2c0b9f5d4?source=rss-b173169cb7------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://matheusteixeirajs.medium.com/)
