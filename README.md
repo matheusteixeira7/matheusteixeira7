@@ -78,8 +78,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Matheus's GitHub Stats" src="![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusteixeira7&count_private=true)
-" />
+  ![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusteixeira7&count_private=true)
+
 
 </details>
 
