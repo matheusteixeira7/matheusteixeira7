@@ -49,7 +49,9 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
+- [8 Métodos de Array no JavaScript (Que Você Já Deveria Saber)](https://www.youtube.com/watch?v=xs9naygpO30)
+- [Qual Linguagem De Programação Escolher Em 2021](https://www.youtube.com/watch?v=ibCoiCRvCVA)
+- [Como Configurar ESLint E Prettier Para Seus Projetos Em ReactJS, NodeJS E Typescript](https://www.youtube.com/watch?v=MPGmsRgqUVQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC0wlbMPR_YWGdh7GuQBPyYQ)
