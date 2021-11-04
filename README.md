@@ -77,10 +77,8 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
+  <br />
   ![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusteixeira7&count_private=true)
-
-
 </details>
 
 [website]: https://devnine.tech
