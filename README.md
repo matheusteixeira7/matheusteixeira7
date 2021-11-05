@@ -1,4 +1,4 @@
-### Hey, I'm Matheus Teixeira! <img src="https://i.ibb.co/Pc8wZNk/profile.jpg"/>
+### Hey, I'm Matheus Teixeira! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
 Content Creator at [Youtube](https://www.youtube.com/channel/UC0wlbMPR_YWGdh7GuQBPyYQ) <br>
 Software Engineer at [Devnine](https://devnine.tech) <br>
