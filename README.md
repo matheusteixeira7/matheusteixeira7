@@ -44,6 +44,7 @@
 ---
 
 <br>
+<br>
 
 ### 📺 Latest YouTube Videos
 
@@ -55,7 +56,11 @@
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC0wlbMPR_YWGdh7GuQBPyYQ)
 
+<br>
+
 ---
+
+<br>
 
 ### 📕 Latest Blog Posts
 
@@ -71,6 +76,8 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+  
+  <br>
   
   ![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusteixeira7&count_private=true)
 </details>
