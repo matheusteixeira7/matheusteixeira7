@@ -1,4 +1,4 @@
-### Hey, I'm Lucas Montano! 👋
+### Hey, I'm Matheus Teixeira! <img src="https://i.ibb.co/Pc8wZNk/profile.jpg"/>
 
 Content Creator at [Youtube](https://www.youtube.com/channel/UC0wlbMPR_YWGdh7GuQBPyYQ) <br>
 Software Engineer at [Devnine](https://devnine.tech) <br>
