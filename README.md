@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at [Devnine](https://devnine.tech)
 
-- 🤝 I’m looking for help with **people starting programming**
+- 🤝 I’m looking to help **people starting programming**
 
 - 💬 Ask me about **JavaScript, HTML, CSS, React.JS, Next.JS, Node.JS, Express, Typescript**
 
