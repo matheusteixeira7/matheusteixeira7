@@ -7,7 +7,7 @@ Software Engineer at [Devnine](https://devnine.tech) <br>
 
 ### Find me elsewhere 🌎
 
-[Twitter](https://twitter.com/matheusmtcode) <br>
+[Twitter](https://twitter.com/matheusdevjs) <br>
 [Instagram](https://instagram.com/matheusteixeira.js) <br>
 [LinkedIn](https://www.linkedin.com/in/matheusteixeirajs/) <br>
 
