@@ -1,12 +1,36 @@
-Hey, I'm Matheus Teixeira!
+## Olá, meu nome é Matheus Teixeira!
+ 
+<img src="dev-matheusmt.png" min-width="300px" max-width="300px" width="300px" align="right" alt="logo dev-matheusmt">
 
-Content Creator at [Youtube](https://www.youtube.com/channel/UC0wlbMPR_YWGdh7GuQBPyYQ) <br>
-Software Engineer at [Devnine](https://devnine.tech) <br>
+<p align="left"> 
 
-### Find me elsewhere 🌎
+ Sou <strong>Desenvolvedor Backend</strong> na Devnine. Responsável por arquitetar e construir APIs para nossos clientes.
+</p>
 
-[Twitter](https://twitter.com/matheusdevjs) <br>
-[Instagram](https://instagram.com/matheusteixeira.js) <br>
-[LinkedIn](https://www.linkedin.com/in/matheusteixeirajs/) <br>
+<p align="left">
+  Linguagens: <strong>Typescript</strong> e <strong>Golang</strong>.
+</p>
 
-🇧🇷 Born in Volta Redonda, Brazil <br>
+<p align="left">
+   Banco de Dados: <strong>Redis</strong> e <strong>PostgreSQL</strong>.
+</p>
+
+<p align="left">
+  Outros: Docker, Kubernetes, CI/CD.
+</p>
+
+
+<br>
+
+<p align="left">
+<strong>Contatos:</strong>
+</p>
+
+<p align="left">
+  <a href="https://www.instagram.com/dev_matheusmt/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-65EAA7?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/dev_matheusmt/"/>
+  </a>
+  <a href="https://www.linkedin.com/in/stephanie-augusta-lopes-cardoso/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-8A65B5?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/matheusteixeirajs/"/>
+  </a>
+</p>
