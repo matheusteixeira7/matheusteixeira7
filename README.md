@@ -28,9 +28,9 @@
 
 <p align="left">
   <a href="https://www.instagram.com/dev_matheusmt/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-65EAA7?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/dev_matheusmt/"/>
+    <img src="https://img.shields.io/badge/-Instagram-006838?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/dev_matheusmt/"/>
   </a>
-  <a href="https://www.linkedin.com/in/stephanie-augusta-lopes-cardoso/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-8A65B5?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/matheusteixeirajs/"/>
+  <a href="https://www.linkedin.com/in/matheusteixeirajs/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-FBB040?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/matheusteixeirajs/"/>
   </a>
 </p>
