@@ -31,6 +31,6 @@
     <img src="https://img.shields.io/badge/-Instagram-006838?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/dev_matheusmt/"/>
   </a>
   <a href="https://www.linkedin.com/in/matheusteixeirajs/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-FBB040?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/matheusteixeirajs/"/>
+    <img src="https://img.shields.io/badge/-Linkedin-FBB040?style=for-the-badge&logo=Linkedin&logoColor=000000&link=https://www.linkedin.com/in/matheusteixeirajs/"/>
   </a>
 </p>
