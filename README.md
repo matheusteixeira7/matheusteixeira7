@@ -4,7 +4,7 @@
 
 <p align="left"> 
 
- Sou <strong>Desenvolvedor Backend</strong> na Devnine. Responsável por arquitetar e construir APIs para nossos clientes.
+ Sou <strong>Desenvolvedor Fullstack</strong> na Devnine. Responsável por arquitetar e construir APIs para nossos clientes.
 </p>
 
 <p align="left">
