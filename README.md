@@ -28,6 +28,6 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/matheusteixeirajs/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-27A7DE?style=for-the-badge&logo=Linkedin&logoColor=000000&link=https://www.linkedin.com/in/matheusteixeirajs/"/>
+    <img src="https://img.shields.io/badge/-Linkedin-27A7DE?style=for-the-badge&logo=Linkedin&logoColor=ffffff&link=https://www.linkedin.com/in/matheusteixeirajs/"/>
   </a>
 </p>
