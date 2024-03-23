@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-   Banco de Dados: <strong>MYSQL</strong> e <strong>MONGO</strong>.
+   Banco de Dados: <strong>MySQL</strong> e <strong>MongoDB</strong>.
 </p>
 
 <p align="left">
