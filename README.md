@@ -4,15 +4,15 @@
 
 <p align="left"> 
 
- Sou <strong>Desenvolvedor Fullstack</strong> na Devnine. Responsável por arquitetar e construir APIs para nossos clientes.
+ Sou <strong>Desenvolvedor Backend</strong> na Vitta. Responsável por arquitetar e construir sistemas escaláveis.
 </p>
 
 <p align="left">
-  Linguagens: <strong>Typescript</strong> e <strong>Golang</strong>.
+  Linguagens: <strong>Node</strong> e <strong>Golang</strong>.
 </p>
 
 <p align="left">
-   Banco de Dados: <strong>Redis</strong> e <strong>PostgreSQL</strong>.
+   Banco de Dados: <strong>MYSQL</strong> e <strong>MONGO</strong>.
 </p>
 
 <p align="left">
@@ -27,10 +27,7 @@
 </p>
 
 <p align="left">
-  <a href="https://www.instagram.com/dev_matheusmt/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-006838?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/dev_matheusmt/"/>
-  </a>
   <a href="https://www.linkedin.com/in/matheusteixeirajs/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-FBB040?style=for-the-badge&logo=Linkedin&logoColor=000000&link=https://www.linkedin.com/in/matheusteixeirajs/"/>
+    <img src="https://img.shields.io/badge/-Linkedin-27A7DE?style=for-the-badge&logo=Linkedin&logoColor=000000&link=https://www.linkedin.com/in/matheusteixeirajs/"/>
   </a>
 </p>
