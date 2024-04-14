@@ -1,6 +1,6 @@
 ## Olá, meu nome é Matheus Teixeira!
  
-<img src="[https://media.licdn.com/dms/image/C4D12AQF8lEF4VBin7Q/article-cover_image-shrink_600_2000/0/1613158251432?e=2147483647&v=beta&t=3RrCwneTJUlotH8fVRECdTNi_-xkxE9zlhYXXGpReFg](https://media.licdn.com/dms/image/C4D12AQF8lEF4VBin7Q/article-cover_image-shrink_720_1280/0/1613158251432?e=1718841600&v=beta&t=-lCyscoNRD_1WDYVp3-JtdxMu2gbBUGwJD3jM_OKyXs)" min-width="300px" max-width="300px" width="300px" align="right" alt="logo dev-matheusmt">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDN0OXptbmx3NXlhZXhyamcwZWIwNmlybmtrcDY2ZnE2azk0aGpkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VFHpBIMdOWteabwcdb/giphy.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="logo dev-matheusmt">
 
 <p align="left"> 
 
