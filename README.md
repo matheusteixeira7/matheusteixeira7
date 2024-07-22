@@ -4,11 +4,11 @@
 
 <p align="left"> 
 
- Sou <strong>Desenvolvedor Backend</strong> na Vitta. Responsável por arquitetar e construir sistemas escaláveis.
+ Sou <strong>Desenvolvedor Fullstack</strong> na Wehandle.
 </p>
 
 <p align="left">
-  Linguagens: <strong>Node</strong> e <strong>Golang</strong>.
+  Linguagens: <strong>Node</strong>, <strong>Golang</strong>, <strong>React</strong>, e <strong>Vue</strong>.
 </p>
 
 <p align="left">
