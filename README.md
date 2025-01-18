@@ -1,22 +1,22 @@
-## Olá, meu nome é Matheus Teixeira!
+## Hello, my name is Matheus Teixeira!
  
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDN0OXptbmx3NXlhZXhyamcwZWIwNmlybmtrcDY2ZnE2azk0aGpkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VFHpBIMdOWteabwcdb/giphy.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="logo dev-matheusmt">
+<img src="https://media4.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=6c09b95249ru5bbbdtvw40sdyns78f6685170pjda3usxhzu&ep=v1_stickers_search&rid=giphy.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="logo dev-matheusmt">
 
 <p align="left"> 
 
- Sou <strong>Desenvolvedor Fullstack</strong> na Wehandle.
+ I'm <strong>a Senior Software Engineer</strong> at Wehandle.
 </p>
 
 <p align="left">
-  Linguagens: <strong>Node</strong>, <strong>Golang</strong>, <strong>React</strong>, e <strong>Vue</strong>.
+  Techs: <strong>Node.js</strong>, <strong>Golang</strong>, <strong>React</strong>, e <strong>Vue</strong>.
 </p>
 
 <p align="left">
-   Banco de Dados: <strong>MySQL</strong> e <strong>MongoDB</strong>.
+   Databases: <strong>Postgres</strong>, <strong>MySQL</strong> e <strong>MongoDB</strong>.
 </p>
 
 <p align="left">
-  Outros: Docker, Kubernetes, CI/CD.
+  Others: Docker, Kubernetes, CI/CD.
 </p>
 
 
