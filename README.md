@@ -1,6 +1,6 @@
 ## Hello, my name is Matheus Teixeira!
  
-<img src="https://media4.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=6c09b95249ru5bbbdtvw40sdyns78f6685170pjda3usxhzu&ep=v1_stickers_search&rid=giphy.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="logo dev-matheusmt">
+<img src="https://media4.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=6c09b95249ru5bbbdtvw40sdyns78f6685170pjda3usxhzu&ep=v1_stickers_search&rid=giphy.gif" min-width="300px" max-width="300px" width="300px" align="top" alt="logo dev-matheusmt">
 
 <p align="left"> 
 
@@ -8,11 +8,11 @@
 </p>
 
 <p align="left">
-  Techs: <strong>Node.js</strong>, <strong>Golang</strong>, <strong>React</strong>, e <strong>Vue</strong>.
+  Techs: <strong>Node.js</strong>, <strong>Golang</strong>, <strong>React</strong>, and <strong>Vue</strong>.
 </p>
 
 <p align="left">
-   Databases: <strong>Postgres</strong>, <strong>MySQL</strong> e <strong>MongoDB</strong>.
+   Databases: <strong>Postgres</strong>, <strong>MySQL</strong> and <strong>MongoDB</strong>.
 </p>
 
 <p align="left">
