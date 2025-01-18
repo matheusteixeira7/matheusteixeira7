@@ -23,7 +23,7 @@
 <br>
 
 <p align="left">
-<strong>Contatos:</strong>
+<strong>Get in touch:</strong>
 </p>
 
 <p align="left">
